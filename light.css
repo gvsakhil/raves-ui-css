@@ -1,8 +1,8 @@
 :root {
-  font-family: "poppins", sans-serif;
+  font-family: "poppins";
   font-feature-settings: "cv02", "cv03", "cv04", "cv11";
   font-variation-settings: normal;
-  --font-family: "poppins", sans-serif;
+  --font-family: "poppins";
   --font-feature-settings: "cv02", "cv03", "cv04", "cv11";
   --surface-a: #ffffff;
   --surface-b: #f9fafb;
